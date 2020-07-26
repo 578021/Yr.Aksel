@@ -1,0 +1,41 @@
+
+
+    .text {
+        margin: 5px;
+        font-size: 40px;
+        font-family: "Microsoft Himalaya";
+        float: top;
+    }
+
+
+    .Vaer{
+        overflow: auto;
+        text-align: center;
+        border: 5px solid darkgreen;
+        background: aliceblue;
+        padding: 5px;
+        margin: 5px;
+        float: left;
+
+        width: 10%;
+    }
+
+    img{
+        padding: 5px;
+        width: 50%;
+    }
+
+    .vaerno{
+        background: gainsboro;
+        width: 100%;
+        float: left;
+        margin-bottom: 20px;
+    }
+    .vaerimorgen{
+        background: gainsboro;
+        width: 100%;
+        float: left;
+        margin-bottom: 20px;
+    }
+
+
